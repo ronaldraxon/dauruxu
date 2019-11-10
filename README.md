@@ -46,6 +46,9 @@ Diseñar una arquitectura para la detección de estados de ánimo de personas y 
 2. articulosDelProyecto
 3. presentacionesDelProyecto
 4. estadoDelArte 
+   * primerosPasos
+   * mapasMentales
+   * proyectosDeReferencia	
 5. propuestaDelProyecto
 
 ## Aplicación
