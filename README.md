@@ -1,5 +1,19 @@
 # Dauruxü: Detección de estados de ánimo de personas y sus actividades para el apoyo en el diagnóstico de trastornos psicológicos en FRPO
 
+## Indice General
+
+1. Contexto
+2. Objetivo General
+3. Objetivos Especificos
+4. Descripción de carpetas y archivos del proyecto
+5. Aplicación
+   * Requisitos del sistema
+   * Ambiente de desarrollo
+   * Ejecución
+   * Ambiente de producción
+   * Documentación
+6. Bibliografía
+
 ## Contexto
 
 Existen situaciones en el entorno laboral, que pueden influir sobre la salud de las personas. A estas situaciones, se les conoce como factores de riesgo ocupacional y son definidas como las posibles causas que pueden ser responsables de una enfermedad, lesión o daño, como consecuencia de la actividad que se realiza o el medio en el cual se permanece durante el desempeño de la actividad [1][2]. Dentro del contexto mencionado, se pueden encontrar factores de riesgo de tipo químico[3]; factores de riesgo de tipo biológico [4]; factores de riesgo ambiental [5] y factores de riesgo de tipo psicosocial ocupacional (FRPO). Los FRPO involucran aspectos físicos del entorno laboral como el ruido, la iluminación o la temperatura del entorno [6][7] y aspectos psicológicos en las personas como la monotonía, el estrés y la fatiga laboral causada por la carga de trabajo o el exceso de horas trabajadas [8]. Los aspectos psicológicos de los FRPO serán la motivación principal del presente proyecto. 
