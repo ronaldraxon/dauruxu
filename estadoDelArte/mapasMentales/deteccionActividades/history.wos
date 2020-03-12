@@ -1,0 +1,866 @@
+﻿<search>
+<application_name>WOS</application_name>
+<application_version>WoK 5.5</application_version>
+<search_name>Test Search</search_name>
+<search_desc>Test Search Description</search_desc>
+<sets>
+<set>
+<set_number>1</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;body&quot;) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;body&quot;) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;body&quot;) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;body&quot;) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;body&quot;) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>2</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((body and pose) and (detection or recognition) and (image or video)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((body and pose) and (detection or recognition) and (image or video)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((body and pose) and (detection or recognition) and (image or video)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((body and pose) and (detection or recognition) and (image or video)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((body and pose) and (detection or recognition) and (image or video)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>3</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>4</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (pose) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (pose) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (pose) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (pose) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (pose) and (detection or recognition) and (image or video))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>5</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and(pose))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and(pose))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and(pose))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and(pose))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and(pose))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>6</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>7</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>PUBLICATION YEARS:</b> (2020 OR 2019 OR 2018)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;PublicationYear&quot;><value><![CDATA[2020]]></value><value><![CDATA[2019]]></value><value><![CDATA[2018]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode>Refine</service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.RefineQuery</query_type>
+<preparsed><![CDATA[ #6 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.RefineQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #6 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #6 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>8</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition or analysis) and (stress or depresion or anxiety))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition or analysis) and (stress or depresion or anxiety))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition or analysis) and (stress or depresion or anxiety))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition or analysis) and (stress or depresion or anxiety))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition or analysis) and (stress or depresion or anxiety))  AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>9</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[(TI=((emotion* OR sentiment*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[(TI=((emotion* OR sentiment*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[(TI=((emotion* OR sentiment*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[(TI=((emotion* OR sentiment*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[(TI=((emotion* OR sentiment*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>10</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[(TI=((emotion* and reaction*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[(TI=((emotion* and reaction*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[(TI=((emotion* and reaction*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[(TI=((emotion* and reaction*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[(TI=((emotion* and reaction*) AND (detection OR recognition OR analysis) AND (stress OR depression OR anxiety))) AND (WC=(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;PSYCHOLOGY MULTIDISCIPLINARY&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot; OR &quot;BEHAVIORAL SCIENCES&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>11</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>12</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>PUBLICATION YEARS:</b> (2020 OR 2019 OR 2018)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;PublicationYear&quot;><value><![CDATA[2020]]></value><value><![CDATA[2019]]></value><value><![CDATA[2018]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode>Refine</service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.RefineQuery</query_type>
+<preparsed><![CDATA[ #11 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.RefineQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #11 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #11 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>13</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>14</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>PUBLICATION YEARS:</b> (2020 OR 2019 OR 2018)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;PublicationYear&quot;><value><![CDATA[2020]]></value><value><![CDATA[2019]]></value><value><![CDATA[2018]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode>Refine</service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.RefineQuery</query_type>
+<preparsed><![CDATA[ #13 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.RefineQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #13 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #13 AND (PY==(&quot;2020&quot; OR &quot;2019&quot; OR &quot;2018&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>15</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>PUBLICATION YEARS:</b> (2020 OR 2019 OR 2018) AND <b>DOCUMENT TYPES:</b> (ARTICLE)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;PublicationYear&quot;><value><![CDATA[2020]]></value><value><![CDATA[2019]]></value><value><![CDATA[2018]]></value></Field></Fields></analysis><analysis><Fields><Field name=&quot;DocumentType&quot;><value><![CDATA[ARTICLE]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode>Refine</service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.RefineQuery</query_type>
+<preparsed><![CDATA[ #14 AND (DT==(&quot;ARTICLE&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.RefineQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #14 AND (DT==(&quot;ARTICLE&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #14 AND (DT==(&quot;ARTICLE&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not (facial)) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>16</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial  not audio not text) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial  not audio not text) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial  not audio not text) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial  not audio not text) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial  not audio not text) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>17</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>18</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>19</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>20</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (stress or depression or anxiety ) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (stress or depression or anxiety ) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (stress or depression or anxiety ) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (stress or depression or anxiety ) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) and (stress or depression or anxiety ) not facial not audio not text not speech not multimodal not Electroencephalogram not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>21</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((emotion* or sentiment*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>22</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((action* or behavior* or activit*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((action* or behavior* or activit*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((action* or behavior* or activit*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((action* or behavior* or activit*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE ) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((action* or behavior* or activit*) and (detection or recognition) not facial not audio not text not speech not multimodal not Electroencephalogram not EEG not emg not kortisol) AND WC= ( &quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot; OR &quot;COMPUTER SCIENCE INFORMATION SYSTEMS&quot; OR &quot;ENGINEERING ELECTRICAL ELECTRONIC&quot; OR &quot;COMPUTER SCIENCE SOFTWARE ENGINEERING&quot; OR &quot;COMPUTER SCIENCE CYBERNETICS&quot; OR &quot;COMPUTER SCIENCE THEORY METHODS&quot; OR &quot;ENGINEERING MULTIDISCIPLINARY&quot;) AND PY=(2018-2020) AND DT=( ARTICLE )]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+</sets>
+</search>
