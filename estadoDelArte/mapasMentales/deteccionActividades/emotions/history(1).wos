@@ -1,0 +1,1490 @@
+﻿<search>
+<application_name>WOS</application_name>
+<application_version>WoK 5.5</application_version>
+<search_name>Test Search</search_name>
+<search_desc>Test Search Description</search_desc>
+<sets>
+<set>
+<set_number>1</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;computer vision&quot; and &quot;emotion&quot;) OR TI=(&quot;computer vision&quot; and &quot;emotion&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;computer vision&quot; and &quot;emotion&quot;) OR TI=(&quot;computer vision&quot; and &quot;emotion&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;computer vision&quot; and &quot;emotion&quot;) OR TI=(&quot;computer vision&quot; and &quot;emotion&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;computer vision&quot; and &quot;emotion&quot;) OR TI=(&quot;computer vision&quot; and &quot;emotion&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;computer vision&quot; and &quot;emotion&quot;) OR TI=(&quot;computer vision&quot; and &quot;emotion&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>2</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;multimodal&quot; and &quot;sentiment analysis&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>3</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;office&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;office&quot; and &quot;sentiment analysis&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;office&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;office&quot; and &quot;sentiment analysis&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;office&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;office&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;office&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;office&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;office&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;office&quot; and &quot;sentiment analysis&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>4</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;occupational&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;occupational&quot; and &quot;sentiment analysis&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;occupational&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;occupational&quot; and &quot;sentiment analysis&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;occupational&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;occupational&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;occupational&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;occupational&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;occupational&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;occupational&quot; and &quot;sentiment analysis&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>5</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;work*&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;work*&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;work*&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;work*&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;work*&quot; and &quot;sentiment analysis&quot;)or TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>6</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;work*&quot; and &quot;sentiment analysis&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>7</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot; or &quot;video&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot; or &quot;video&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot; or &quot;video&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot; or &quot;video&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot; or &quot;video&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>8</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;recognition&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>9</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;work*&quot; and (&quot;stress&quot;or&quot;depression&quot;) and (&quot;computer vision&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>10</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>11</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;computer vision&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>12</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;recognition&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion&quot; or &quot;sentiment&quot;) and (&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>13</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;) and(&quot;correlation&quot;or&quot;relation&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;) and(&quot;correlation&quot;or&quot;relation&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;) and(&quot;correlation&quot;or&quot;relation&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;) and(&quot;correlation&quot;or&quot;relation&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;) and(&quot;correlation&quot;or&quot;relation&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>14</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;work*&quot; and (&quot;emotion*&quot; or &quot;sentiment*&quot;) and (&quot;behavior&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>15</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors*&quot;) and (&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors*&quot;) and (&quot;recognition&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors*&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors*&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors*&quot;) and (&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>16</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors&quot;) and (&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors&quot;) and (&quot;recognition&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;stressors&quot;) and (&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>17</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;recognition&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;recognition&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>18</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;video&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;video&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;video&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;video&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or&quot;job&quot;) and (&quot;risk factor&quot;) and (&quot;video&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>19</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;) and (&quot;behavior&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;) and (&quot;behavior&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;) and (&quot;behavior&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;) and (&quot;behavior&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;) and (&quot;behavior&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>20</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion analysis&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>21</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>22</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;or&quot;stress&quot;)and(&quot;behavior&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;or&quot;stress&quot;)and(&quot;behavior&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;or&quot;stress&quot;)and(&quot;behavior&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;or&quot;stress&quot;)and(&quot;behavior&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;or&quot;stress&quot;)and(&quot;behavior&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>23</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;or&quot;stress&quot;)and(&quot;behavior&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>WEB OF SCIENCE CATEGORIES:</b> (PUBLIC ENVIRONMENTAL OCCUPATIONAL HEALTH)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;JCRCategories&quot;><value><![CDATA[PUBLIC ENVIRONMENTAL OCCUPATIONAL HEALTH]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #22 AND (TASCA==(&quot;PUBLIC ENVIRONMENTAL OCCUPATIONAL HEALTH&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #22 AND (TASCA==(&quot;PUBLIC ENVIRONMENTAL OCCUPATIONAL HEALTH&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #22 AND (TASCA==(&quot;PUBLIC ENVIRONMENTAL OCCUPATIONAL HEALTH&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;emotion&quot;or&quot;stress&quot;)and(&quot;behavior&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>24</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>25</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;recognition&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;recognition&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;recognition&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>26</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;computer vision&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;computer vision&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;computer vision&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;computer vision&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;mental health&quot;) and(&quot;computer vision&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>27</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>28</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>WEB OF SCIENCE CATEGORIES:</b> (BEHAVIORAL SCIENCES)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;JCRCategories&quot;><value><![CDATA[BEHAVIORAL SCIENCES]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #27 AND (TASCA==(&quot;BEHAVIORAL SCIENCES&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #27 AND (TASCA==(&quot;BEHAVIORAL SCIENCES&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #27 AND (TASCA==(&quot;BEHAVIORAL SCIENCES&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>29</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;work*&quot;or &quot;job&quot;) and (&quot;depression&quot;or&quot;anxiety&quot;) and(&quot;recognition&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>30</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>31</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>WEB OF SCIENCE CATEGORIES:</b> (COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;JCRCategories&quot;><value><![CDATA[COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #30 AND (TASCA==(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #30 AND (TASCA==(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #30 AND (TASCA==(&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>32</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;) and WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;) and WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;) and WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;) and WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;emotion&quot;and&quot;recognition&quot;) and WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>33</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>34</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;emotion&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>35</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;depression&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;depression&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;depression&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;depression&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;depression&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>36</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mood&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mood&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mood&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mood&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mood&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>37</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;risk factors&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;risk factors&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;risk factors&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;risk factors&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;risk factors&quot;AND&quot;recognition&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>38</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mental health&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mental health&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mental health&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mental health&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;job&quot;or &quot;work*&quot;) AND&quot;mental health&quot;) AND WC= (&quot;COMPUTER SCIENCE ARTIFICIAL INTELLIGENCE&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+</sets>
+</search>
