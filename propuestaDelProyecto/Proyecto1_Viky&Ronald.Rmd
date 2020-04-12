@@ -1,0 +1,54 @@
+---
+title: "Proyecto 1 - Métodos y Aplicaciones de Analítica II"
+header-includes:
+  - \usepackage[spanish]{babel}
+  - \selectlanguage{spanish}
+  - \usepackage[utf8]{inputenc}
+  - \floatplacement{figure}{H}
+subtitle: "Caso Harvard 'Predicting earings manipulation by indian firms using machine learning algorithms' Predición de manipulación de ganancias en firmas indias"
+author: 
+  - Viky Julieta Arias Delgado^[Pontificia Universidad Javeriana, viky.arias@javeriana.edu.co]
+  - Ronald Fernando Rodríguez Barbosa^[Pontificia Universidad Javeriana, rfernandorodriguez@javeriana.edu.co]
+date: "Marzo 27 de 2020"
+output: 
+  pdf_document: 
+    number_sections: yes
+    #toc: yes
+    #toc_depth: 4
+bibliography: 
+  - '8_referencias/referenciasJulieta.bib'
+  - '8_referencias/referenciasRonald.bib'
+link-citations: yes
+csl: '11_configuracion/ieee.csl'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::read_chunk('11_configuracion/configuracionPaquetesYEntorno.R')
+```
+
+```{r, cargaLibrerias, echo=FALSE, include=FALSE}
+```
+
+```{r child = '0_seccion0Resumen/resumen.Rmd'}
+```
+
+```{r child = '1_seccion1ComprensionNegocio/seccion1ComprensionNegocio.Rmd'}
+```
+
+```{r child = '2_seccion2ComprensionDatos/seccion2ComprensionDatos.Rmd'}
+```
+
+```{r child = '3_seccion3PreparacionDatos/seccion3PreparacionDatos.Rmd'}
+```
+
+```{r child = '4_seccion4Modelamiento/seccion4Modelamiento.Rmd'}
+```
+
+```{r child = '5_seccion5Evaluacion/seccion5Evaluacion.Rmd'}
+```
+
+```{r child = '6_seccion6InformeFinal/seccion6InformeFinal.Rmd'}
+```
+
+# Referencias {-}
