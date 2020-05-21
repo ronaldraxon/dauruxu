@@ -1,0 +1,9 @@
+---
+title: "Introducción"
+author: "Ronald"
+output: pdf_document
+---
+
+# Introducción
+
+Aquí va la introducción

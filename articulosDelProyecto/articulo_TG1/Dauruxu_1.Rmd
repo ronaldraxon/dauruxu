@@ -1,0 +1,45 @@
+---
+title: "Dauruxu - Aproximaciones Tecnológicas para FRP"
+header-includes:
+  - \usepackage[spanish]{babel}
+  - \selectlanguage{spanish}
+  - \usepackage[utf8]{inputenc}
+subtitle: "Proyecto de grado 1"
+author: 
+  - Ronald Fernando Rodríguez Barbosa^[Pontificia Universidad Javeriana, rfernandorodriguez@javeriana.edu.co]
+date: "Mayo 29 de 2020"
+output: 
+  pdf_document: 
+    number_sections: yes
+    #toc: yes
+    #toc_depth: 4
+bibliography: 
+  - '8_referencias/referenciasRonald.bib'
+link-citations: yes
+csl: '11_configuracion/llncs.cls'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::read_chunk('9_configuracion/configuracionPaquetesYEntorno.R')
+```
+
+```{r child = '1_seccion1Introduccion/seccion1Introduccion.Rmd'}
+```
+
+```{r child = '2_seccion2Motivacion/seccion2Motivacion.Rmd'}
+```
+
+```{r child = '3_seccion3AproximacionesTecnologicas/seccion3AproximacionesTecnologicas.Rmd'}
+```
+
+```{r child = '4_seccion4ExtraccionActividadesEmociones/seccion4ExtraccionActividadesEmociones.Rmd'}
+```
+
+```{r child = '5_seccion5Experimentacion/seccion5Experimentacion.Rmd'}
+```
+
+```{r child = '6_seccion6Conclusiones/seccion6Conclusiones.Rmd'}
+```
+
+# Referencias {-}
