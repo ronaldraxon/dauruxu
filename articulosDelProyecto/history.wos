@@ -1,0 +1,788 @@
+﻿<search>
+<application_name>WOS</application_name>
+<application_version>WoK 5.5</application_version>
+<search_name>Test Search</search_name>
+<search_desc>Test Search Description</search_desc>
+<sets>
+<set>
+<set_number>1</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial risk factor&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial risk factor&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial risk factor&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial risk factor&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial risk factor&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>2</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial risk&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial risk&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial risk&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial risk&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial risk&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>3</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>4</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;artificial intelligence&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;artificial intelligence&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;artificial intelligence&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;artificial intelligence&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;artificial intelligence&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>5</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;artificial intelligence&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;artificial intelligence&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;artificial intelligence&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;artificial intelligence&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;artificial intelligence&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>6</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial&quot; and &quot;artificial intelligence&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial&quot; and &quot;artificial intelligence&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial&quot; and &quot;artificial intelligence&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial&quot; and &quot;artificial intelligence&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial&quot; and &quot;artificial intelligence&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>7</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;machine learning&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;machine learning&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;machine learning&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;machine learning&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial risk factor&quot; and &quot;machine learning&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>8</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;machine learning&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;machine learning&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;machine learning&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;machine learning&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial risk&quot; and &quot;machine learning&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>9</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial&quot; and &quot;machine learning&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial&quot; and &quot;machine learning&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial&quot; and &quot;machine learning&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial&quot; and &quot;machine learning&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial&quot; and &quot;machine learning&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>10</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(psychosocial and (forecast or predict or classify))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(psychosocial and (forecast or predict or classify)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(psychosocial and (forecast or predict or classify)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(psychosocial and (forecast or predict or classify)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(psychosocial and (forecast or predict or classify))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>11</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(psychosocial and (&quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(psychosocial and (&quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(psychosocial and (&quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(psychosocial and (&quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(psychosocial and (&quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>12</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;tobbacco cunsumption&quot; or &quot;alcohol consumption&quot; or &quot;eating habit&quot; or &quot;eating disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;tobbacco cunsumption&quot; or &quot;alcohol consumption&quot; or &quot;eating habit&quot; or &quot;eating disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;tobbacco cunsumption&quot; or &quot;alcohol consumption&quot; or &quot;eating habit&quot; or &quot;eating disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;tobbacco cunsumption&quot; or &quot;alcohol consumption&quot; or &quot;eating habit&quot; or &quot;eating disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;tobbacco cunsumption&quot; or &quot;alcohol consumption&quot; or &quot;eating habit&quot; or &quot;eating disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>13</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;stress&quot; or &quot;anxiety&quot; or &quot;depression&quot; or &quot;musculoskeletal disorders&quot;) and ( &quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;stress&quot; or &quot;anxiety&quot; or &quot;depression&quot; or &quot;musculoskeletal disorders&quot;) and ( &quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;stress&quot; or &quot;anxiety&quot; or &quot;depression&quot; or &quot;musculoskeletal disorders&quot;) and ( &quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;stress&quot; or &quot;anxiety&quot; or &quot;depression&quot; or &quot;musculoskeletal disorders&quot;) and ( &quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;stress&quot; or &quot;anxiety&quot; or &quot;depression&quot; or &quot;musculoskeletal disorders&quot;) and ( &quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>14</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;chemical risk&quot; or &quot;environmental risk&quot; or &quot;biological risk&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;chemical risk&quot; or &quot;environmental risk&quot; or &quot;biological risk&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;chemical risk&quot; or &quot;environmental risk&quot; or &quot;biological risk&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;chemical risk&quot; or &quot;environmental risk&quot; or &quot;biological risk&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;chemical risk&quot; or &quot;environmental risk&quot; or &quot;biological risk&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>15</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;drowsiness&quot; or &quot;sleep disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;drowsiness&quot; or &quot;sleep disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;drowsiness&quot; or &quot;sleep disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;drowsiness&quot; or &quot;sleep disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;drowsiness&quot; or &quot;sleep disorder&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>16</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial factor&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial factor&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial factor&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial factor&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial factor&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>17</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;artificial intelligence&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;artificial intelligence&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;artificial intelligence&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;artificial intelligence&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;artificial intelligence&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>18</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;machine learning&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;machine learning&quot;) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;machine learning&quot;) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;machine learning&quot;) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=(&quot;psychosocial factor&quot; and &quot;machine learning&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>19</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;psychosocial risk&quot;)   and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;psychosocial risk&quot;)   and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;psychosocial risk&quot;)   and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;psychosocial risk&quot;)   and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;psychosocial risk&quot;)   and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>20</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TI=((&quot;burndown syndrome&quot; or &quot;Boredom&quot; or &quot;work fatigue&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TI=((&quot;burndown syndrome&quot; or &quot;Boredom&quot; or &quot;work fatigue&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TI=((&quot;burndown syndrome&quot; or &quot;Boredom&quot; or &quot;work fatigue&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TI=((&quot;burndown syndrome&quot; or &quot;Boredom&quot; or &quot;work fatigue&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TI=((&quot;burndown syndrome&quot; or &quot;Boredom&quot; or &quot;work fatigue&quot;) and (&quot;machine learning&quot; or &quot;neural network&quot; or &quot;random forest&quot; or &quot;support vector machine&quot; or &quot;decision tree&quot; or &quot;linear regression&quot; or &quot;logistic regression&quot; or &quot;naive bayes&quot; or &quot;markov chain&quot; or &quot;fuzzy logic&quot; or &quot;deep learning&quot; or &quot;ensamble models&quot; or &quot;stacked models&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+</sets>
+</search>
