@@ -1,7 +1,0 @@
----
-title: "Experimentación"
-author: "Ronald"
-output: pdf_document
----
-
-# Experimentación

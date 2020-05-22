@@ -1,8 +1,0 @@
----
-title: "Conclusiones"
-author: "Ronald"
-output: pdf_document
----
-
-# Conclusiones
-

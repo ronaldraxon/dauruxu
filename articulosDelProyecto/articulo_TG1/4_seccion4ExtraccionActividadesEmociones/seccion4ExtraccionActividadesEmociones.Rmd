@@ -1,8 +1,0 @@
----
-title: "Extracción Actividades Emociones"
-author: "Ronald"
-output: pdf_document
----
-
-# Extracción Actividades Emociones
-

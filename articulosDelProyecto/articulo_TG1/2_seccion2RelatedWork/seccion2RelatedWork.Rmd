@@ -1,0 +1,27 @@
+---
+title: "Motivacion"
+author: "Ronald"
+output: pdf_document
+---
+
+# Problem statement
+* This paragraph is goint describe diferent types of psycosocial risk. Then its mentioned that the aim of the present work is to focus in psycosocial risks factors.
+  
+## Psychosocial risk factors evaluation methods (PRIF-EM)
+* The first paragraph will list PRIFEM types and scopes.
+* The second paragraph will describe main aspects covered by PRIFEM, such as relationships and demographic variables.
+* The third paragraph will describe articles mentioning the usage of evaluation methods in work and academic environments.
+* Good things about this
+* The fourh paragrah will mention some caveats and limitations of PRIFEM.
+
+## Technologic approaches supporting PRIF assessments
+* The first paragraph will list technologic approaches for muscle eskeletical disorders.
+* The second paragraph will list technologic approaches for stress and anxiety detection.
+* Good things about this
+* The fourh paragrah will mention some limitations and barries of thechnology adoption for PRIFEM.
+
+
+Parrafo o sección orientada de parrafo de cierre mencionando la problematica
+
+
+

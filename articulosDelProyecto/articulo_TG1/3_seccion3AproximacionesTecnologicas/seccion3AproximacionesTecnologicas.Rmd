@@ -1,8 +1,0 @@
----
-title: "Aproximaciones Tecnologicas"
-author: "Ronald"
-output: pdf_document
----
-
-# Aproximaciones Tecnológicas
-

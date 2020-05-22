@@ -1,0 +1,35 @@
+---
+title: "Aproximaciones Tecnologicas"
+author: "Ronald"
+output: pdf_document
+---
+
+# Related work
+- This paragraph will explain the motivations of this project by showing the low quantity of works involving artificial intelligence in psychosocial risk factors, mentioning that there are articles orbitating the problem but just adressing specific matters whitout any intention to be a part of an integral solution for psychosocial risk 
+
+\begin{figure}[h!]
+  \caption{A picture}
+  \centering
+  \includegraphics[width=0.5\textwidth]{./8_datasets_n_images/images/Imagen1.png}
+\end{figure}
+
+* This paragraph will expose the research question highlighting the fact that there are implicit activities in PRIFEM that could be reconized to achieve that goal.
+
+## Statitical analysis
+## Gap Analisis de pocos papers que se encuentran relacionados con la conjuncion de temas
+
+# Implicit Activities and emotions in PRIFEM
+* This subsection introduces the work of extracting activities and emotions from the PRIFEM
+
+## Methodology of extraction
+* The first paragraph will descibe the references sources used to get PRIFEM related work
+* The second paragraph will describe the authors working in methods oriented to assess Psychosocial risk in academic environments
+* The Third paragraph will describe the authors working in methods oriented to assess Psychosocial risk in work environments
+* The Fourh paragraph introduces a table of identified PRIFEM (It shows a table)
+* The Fifth paragraph list dimensions and scope identificacion of the items in main PRIFEM
+* The sixth paragraph will introduce a table with the quantity of items which mentions any kind of activity,
+* The Sevent paragraph will introduce a table with the quantity of items that can be linked to emotions.
+
+## Activities and emotions inventory
+
+* This sections will introduce a table were is an inventory of activities and emotions that can be tracked by camera
