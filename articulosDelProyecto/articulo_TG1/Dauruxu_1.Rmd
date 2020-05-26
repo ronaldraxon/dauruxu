@@ -2,19 +2,22 @@
 title: Emotions and Activity Recognition. A computer vision approach for augmentation of psychosocial risk evaluation.
 subtitle: Computer vision assistance in psychosocial risk factor evaluation via emotions and activities monitoring.
 titlerunning: Short form of title (if too long for head)
-authorrunning:
-  Short form of author list if too long for running head
-thanks: |
-  Grants or other notes about the article that should go
-  on the front page should be placed here. General
-  acknowledgments should be placed at the end of the article.
-authors:
-  - name: Ronald Fernando Rodríguez Barbosa 1
-    address: Faculty of Engineering, Pontificia Universidad Javeriana
-    email: rfernandorodriguez@javeriana.edu.co
-  - name: Enrique González Guerrero 2
-    address: Faculty of Engineering, Pontificia Universidad Javeriana
-    email: egonzal@javeriana.edu.co
+#authorrunning:
+#  Short form of author list if too long for running head
+#thanks: |
+#  Grants or other notes about the article that should go
+#  on the front page should be placed here. General
+#  acknowledgments should be placed at the end of the article.
+author: 
+  - Ronald Fernando Rodríguez Barbosa^[Pontificia Universidad Javeriana, rfernandorodriguez@javeriana.edu.co]
+  - Enrique González Guerrero^[Pontificia Universidad Javeriana, egonzal@javeriana.edu.co]
+#authors:
+#  - name: Ronald Fernando Rodríguez Barbosa 1
+#    address: Faculty of Engineering, Pontificia Universidad Javeriana
+#    email: rfernandorodriguez@javeriana.edu.co
+#  - name: Enrique González Guerrero 2
+#    address: Faculty of Engineering, Pontificia Universidad Javeriana
+#    email: egonzal@javeriana.edu.co
 keywords:
   - psychosocial risk
   - computer vision
@@ -23,36 +26,42 @@ keywords:
 abstract: |
   Psychosocial risk evaluation has played a dominant role in ensuring the wellbeing and health of people. Nevertheless, mechanisms such as interviews and questionaries are susceptible to inaccurate or skewed results due to the lack of data that cannot be acquired during assessments. This work proposes an initial approach to identify activities and emotions that are implicitly queried by current evaluations and have the potential of being detected by cameras. By extracting features from video frames using computer vision, machine learning oriented classifiers becomes feasible to conduct continuous and non-intrusive monitoring.  Activities and emotions registering could provide additional data to support better-informed psychosocial risk evaluations.
 bibliography: 
-  - '9_referencias/referenciasRonald.bib'
+  - 'sectionReferences/referenciasRonald.bib'
 #output: rticles::springer_article
 output: 
   pdf_document: 
     number_sections: yes
 link-citations: yes
-csl: '10_configuracion/ieee.csl'
+csl: 'sectionConfiguration/ieee.csl'
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::read_chunk('10_configuracion/configuracionPaquetesYEntorno.R')
+knitr::read_chunk('sectionConfiguration/packages&environmentSetUp.R')
 ```
 
-```{r child = '1_seccion1Introduction/seccion1Introduction.Rmd'}
+```{r child = 'sectionIntroduction/introduction.Rmd'}
 ```
 
-```{r child = '2_seccion2RelatedWork/seccion2RelatedWork.Rmd'}
+```{r child = 'sectionProblemStatement/problemStatement.Rmd'}
 ```
 
-```{r child = '3_seccion3ActivityAndEmotions/seccion3ActivityAndEmotions.Rmd'}
+```{r child = 'sectionRelatedWork/relatedWork.Rmd'}
 ```
 
-```{r child = '4_seccion4MachineLearningApproaches/seccion4MachineLearningApproaches.Rmd'}
+```{r child = 'sectionImplicitActivities/implicitActivities.Rmd'}
 ```
 
-```{r child = '5_seccion5FeatureExtraction/seccion5FeatureExtraction.Rmd'}
+```{r child = 'sectionAIApproaches/aiApproaches.Rmd'}
 ```
 
-```{r child = '7_seccion7Conclusions/seccion7Conclusions.Rmd'}
+```{r child = 'sectionFeatureExtraction/featureExtraction.Rmd'}
+```
+
+```{r child = 'sectionResults/results.Rmd'}
+```
+
+```{r child = 'sectionConclusions/conclusions.Rmd'}
 ```
 
 # References {-}
