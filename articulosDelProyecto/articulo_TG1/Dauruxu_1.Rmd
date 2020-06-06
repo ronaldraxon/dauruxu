@@ -24,7 +24,7 @@ keywords:
   - machine learning
   - augmented psychosocial evaluation
 abstract: |
-  Psychosocial risk evaluation has played a dominant role in ensuring the wellbeing and health of people. Nevertheless, mechanisms such as interviews and questionaries are susceptible to inaccurate or skewed results due to the lack of data that cannot be acquired during assessments. This work proposes an initial approach to identify activities and emotions that are implicitly queried by current evaluations and have the potential of being detected by cameras. By extracting features from video frames using computer vision, machine learning oriented classifiers becomes feasible to conduct continuous and non-intrusive monitoring.  Activities and emotions registering could provide additional data to support better-informed psychosocial risk evaluations.
+  Psychosocial risk evaluation has played a dominant role in ensuring the wellbeing and health of people. Nevertheless, mechanisms such as interviews and questionaries are susceptible to inaccurate or skewed results due to the lack of data that cannot be acquired during assessments. This work proposes an initial approach to identify activities and emotions that are implicitly queried by current evaluations and have the potential of being detected by cameras. By extracting features from video frames using computer vision, machine learning-oriented classifiers become feasible to conduct continuous and non-intrusive monitoring. Activities and emotions registering could provide additional data to support better-informed psychosocial risk evaluations.
 bibliography: 
   - 'sectionReferences/referenciasRonald.bib'
 #output: rticles::springer_article
@@ -43,10 +43,10 @@ knitr::read_chunk('sectionConfiguration/packages&environmentSetUp.R')
 ```{r child = 'sectionIntroduction/introduction.Rmd'}
 ```
 
-```{r child = 'sectionProblemStatement/problemStatement.Rmd'}
+```{r child = 'sectionRelatedWork/relatedWork.Rmd'}
 ```
 
-```{r child = 'sectionRelatedWork/relatedWork.Rmd'}
+```{r child = 'sectionProblemStatement/problemStatement.Rmd'}
 ```
 
 ```{r child = 'sectionImplicitActivities/implicitActivities.Rmd'}

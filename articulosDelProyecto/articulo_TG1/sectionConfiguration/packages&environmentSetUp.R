@@ -14,7 +14,8 @@ library(psych)
 library(kableExtra)
 # Librería para estilo grillas de gráficas
 library(gridExtra)
+library(readxl)
 # Habilita el uso de python en el presente documento
-library(reticulate) 
+#library(reticulate) 
 # Utiliza el interprete del entorno virtual
-use_condaenv("Proy1MAAII", conda = "/software/anaconda3/bin/conda")
+#use_condaenv("Proy1MAAII", conda = "/software/anaconda3/bin/conda")

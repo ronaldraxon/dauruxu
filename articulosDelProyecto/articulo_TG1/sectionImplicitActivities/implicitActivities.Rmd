@@ -8,9 +8,15 @@ output: pdf_document
 
 **This subsection introduces the work of extracting activities and emotions from the PRIF-EM**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
+Spanish Version of the CD-RISC Resilience Scale for Chronic Stress Situations[@CRESPO2014]
+  Beck Anxiety Inventory (BAI)[@SANZ2012]
+
+
 ## Methodology of extraction
 
 **The first paragraph will descibe the references sources used to get PRIFEM related work**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+hOW DO WE RECOGNIZE EMOTIONS FROM MOVEMENTS[@MELZER2019]
 
 **The second paragraph will describe the authors working in methods oriented to assess Psychosocial risk in academic environments**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -18,60 +24,36 @@ output: pdf_document
 
 **The Fourh paragraph introduces a table of identified PRI0-FEM (It shows a table)**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-```{r,echo= TRUE }
-##
-##
-##Here there will be code to print
-##tables from files.
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##The table size will be approximately of this 
-##code chunk size
-##
-##
-```
+|              Author             |     Environment     |                                          Assessment mechanism/scale                                          |
+|:-------------------------------:|:-------------------:|:------------------------------------------------------------------------------------------------------------:|
+| Golonka, 2019[@Golonka2019]     |         Work        | Maslach Burnout Inventory – General Survey (MBI-GS), NEO Five-Factor Inventory,  Beck’s Depression Inventory |
+| Mausner, 2000[@Mausner2000]     |         Work        |                                         Quality of Employment Surveys                                        |
+| Boyes, 2002 [@Boyes2002]        |         Work        |                Hospital Anxiety and Depression Scale, Short-form Supportive Care Needs Survey                |
+| Rodríguez, 2009[@Rodriguez2009] |         Work        |                                  Hipótesis de la tensiòn del trabajo Karasek                                 |
+| Blanch, 2010[@Blanch2010]       |         Work        |                     El cuestionario “FPSICO” El Cuestionario de Bienestar Laboral General                    |
+| Luca, 2014[@Luca2014]           |         Work        |                                        Beck Depression Inventory (BDI)                                       |
+| Maeda, 2016 [@Maeda2016]        |         Work        |                                   International Neuropsychiatric Interview                                   |
 
 **The Fifth paragraph list dimensions and scope identificacion of the items in main PRIF-EM**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **The sixth paragraph will introduce a table with the quantity of items which mentions any kind of activity**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-```{r,echo= TRUE }
-##
-##
-##Here there will be code to print
-##tables from files.
-##
-##
-##The table size will be approximately of this 
-##code chunk size
-##
-##
-```
+|                                                                                           Mecanismo                                                                                           |  año | Items |                                                   Topicos                                                   |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:-----------------:|:-----------------------------------------------------------------------------------------------------------:|
+| Cuestionario Encuesta de Calidad de Vida en el trabajo, aplicado en España por el Ministerio de Trabajo e Inmigración                                                                         | 2018 | 3                 | Trabajo prolongado o jornada extensa,Estrés, Ansiedad, Depresión, Problemas de sueño                        |
+| Cuestionario para la Evaluación del Estrés, que hace parte de la batería para la evaluación de factores de riesgo psicosocial publicada por el Ministerio de la Protección Social en Colombia | 2020 | 5                 | Trabajo prolongado Posturas inapropiadas Ausencia o presencia de descansos Estrés                           |
+| Maslach Burnout Inventory (Edu y Labo)                                                                                                                                                        | 2001 | 3                 | Trabajo prolongado, jornada extensa y condiciones                                                           |
+| Escala de Desgaste Ocupacional[@MELZER2019]                                                                                                                                                              | 2000 | 2                 | Trabajo prolongado o jornada extensa.  Problemas de sueño Depresión                                         |
+| Utrecht Work Engagement Scale, que evalúa la experiencia de engagement y bienestar                                                                                                            | 2000 | 2                 | Trabajo prolongado o jornada extensa.  Actividades de bienestar                                             |
+| Inventario de violencia y acoso psicológico en el trabajo                                                                                                                                     | 2000 | 1                 | Trabajo prolongado o jornada extensa                                                                        |
+| Perceived Scale Test (PSS) Cohen, Kamarck and Mermelstein                                                                                                                                     | 2000 | 1                 | Medición de la percepción del estrés                                                                        |
+| Depression, anxiety and stress scale (DASS21)                                                                                                                                                 | 2000 | 5                 | Test de autovaloración de síntomas físicos                                                                  |
+| The Three-Factor Eating Questionnaire                                                                                                                                                         | 2000 | 5                 | Cuestionario de tres factores de ingesta                                                                    |
+| The Kessler Psychological Distress Scale (K10)                                                                                                                                                | 2000 | 3                 | Destinado a producir una medida global de angustia basada en preguntas sobre ansiedad y síntomas depresivos |
+| The Pittsburgh Sleep Quality Index (PSQI)                                                                                                                                                     | 2000 | 1                 | Destinado a medir los hábitos de sueño                                                                      |
+| Survey of personal a social development                                                                                                                                                       | 2000 | 5                 | Medir frecuencias de consumo de tabaco, alcohol y síntomas psicológicos                                     |
 
 **The Sevent paragraph will introduce a table with the quantity of items that can be linked to emotions**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```{r,echo= TRUE }
-##
-##
-##Here there will be code to print
-##tables from files.
-##
-##
-##The table size will be approximately of this 
-##code chunk size
-##
-##
-```
 
 ## Activities and emotions inventory
 
