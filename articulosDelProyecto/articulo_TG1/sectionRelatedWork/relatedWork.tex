@@ -1,0 +1,265 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Motivacion},
+            pdfauthor={Ronald},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{Motivacion}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{Ronald}
+    \preauthor{\centering\large\emph}
+  \postauthor{\par}
+    \date{}
+    \predate{}\postdate{}
+  
+
+\begin{document}
+\maketitle
+
+\hypertarget{related-work}{%
+\section{Related work}\label{related-work}}
+
+Within the context of psychosocial risk factors, some variants may be
+inherent individually or together in a work environment. It is essential
+to clarify that the environments can be external when working outdoors
+and internal when working indoors. The most common types of risks for
+both cases are: Physical risks (also known as workplace risk) refer to
+aspects of the environment where the work takes place. Among the most
+significant aspects are noise, lighting, or the temperature of the
+environment{[}@MIRZA2018{]}{[}@NIELSEN2018{]}. Chemical risks are highly
+related to industrial environments where any worker may have contact
+with dust, gases, or abrasive products{[}@SHIN2014{]}{[}@NIJ2017{]}.
+Biological risks involve contact with living things such as fungi,
+bacteria, or viruses, particularly by the interaction with people who
+may have a disease, infections, animals, or plants that may be carriers
+of a harmful organism{[}@CORRAO2012{]}{[}@MORIKAWA2012{]}. Mechanical
+risks may be associated with some aspects of the work environment. It is
+related to heavy machinery usage or the development of an activity in
+which any person exposes to the effects of vibration
+{[}@PALMER2003{]}{[}@SUNDSTRUP2017{]}. Environmental type risks involve
+scenes or work, where there is a high probability of floods, storms, or
+contamination{[}@MARSHALL2016{]}{[}@ANTHONJ201934{]}. Finally,
+psychosocial risks occur in the normal execution of daily activities.
+These are strongly related to the work conditions, people's interaction,
+and socio-demographic conditions. Among the most studied aspects, it is
+stress, monotony, and job fatigue due to excess hours
+worked{[}@ROCHA2014{]}{[}@RAFFO2014{]}. As this last type of risk is the
+main focus of the present work, section 2.1 will present the evaluation
+methods.
+
+\hypertarget{psychosocial-risk-assesment-pria}{%
+\subsection{Psychosocial Risk Assesment
+(PRIA)}\label{psychosocial-risk-assesment-pria}}
+
+Currently, some methods facilitate the evaluation of FRP developed from
+the integration of models and scales, which seek to qualify risk
+factors. In works such as Charria, Sarsosa, and Arenas{[}@CHARRIA2011{]}
+is suggested a taxonomy of mechanisms, taking into account the form in
+the information extracted and its scope. In this work, there are two
+large groups of questionnaires oriented to industrial hygiene and
+psychosocial factors. In the first group, evaluates aspects such as the
+work environment, the physical effects on workers, and details of hiring
+and remuneration. The assessments of these aspects use questionnaires
+that are carried out by an external agent to the organization, who seeks
+an objective evaluation of the situation. Some examples of this group
+are the Questionnaire for the Fifth European Survey on Working
+Conditions{[}{]} and the Quality of Life at Work Survey
+Questionnaire{[}{]}. In the second group, there are questionnaires
+oriented to psychosocial factors acquired through interviews or a
+self-report procedure. Interview questionnaires collect information
+related to job satisfaction, burnout, or bullying. On the other hand,
+self-report questionnaires extract information related to individual
+aspects of the person, such as the relationship between health and
+illness, aspects of daily life, and their social interactions. Some
+examples of this second group are the EAE Stress Assessment
+questionnaire{[}{]}, the occupational burnout scale{[}{]}, the
+Bocanument and Berján evaluation{[}{]}, and the Demand-Control
+model{[}{]}.
+
+Concerning the groups of questionnaires mentioned, there are
+investigations which reveals that some conditions generate effects
+related to physical health such as musculoskeletal
+disorders{[}@ANDERSON1997{]} or the behavior of people such as sedentary
+lifestyle {[}@MORALES2014{]}. On the other hand, other studies show
+effects related to people's mood{[}@RHEE2017{]} with mental health such
+as stress {[}@AZUMA2015{]} and psychological disorders such as anxiety
+{[}@WIEGNER2015{]} or depression {[}@LUCA2014{]} {[}@WINSOR2016{]}.
+Although the psychosocial risk is widely related to work, it is not
+exclusive to these environments. Researches such as that of Abdullah
+Alotaibi {[}@ABDULLAH2020{]}, Christian Hederich{[}@HEDERICH2016{]}, and
+Malarvili{[}@MALARVILI2018{]} address the relationship between sleep
+quality and stress in academic settings. Within the research carried out
+in the academic context, There are studies of the prevalence and
+correlation of depression, anxiety, and suicidal tendencies such as
+Eisenberg's {[}@EISENBERG2007{]}. Other approaches, such as
+Danuta's{[}@ZARZYCKA2014{]}, seek to identify the relationship of
+demographic aspects such as the students' place of residence as
+intervening variables in their state of health. It is also essential to
+show that in these scenarios, students are not the only actors prone to
+risk factors. Works such as that of Briones{[}@BRIONES2010{]} and
+Pedditzi{[}@PEDDITZI2014{]} show a presence of stress and job exhaustion
+among teachers.
+
+During the last years, many mechanisms have been developed in the form
+of questionnaires. These mechanisms have favored the improvement of
+interactions at work, the conditions of their organization, as well as
+the worker's abilities, needs, culture, and the personal situation
+outside of work, all of which, through perceptions and experiences, can
+influence health and performance and job satisfaction. However, the
+influence not only comes from the work environment{[}@IZQUIERDO2012{]}
+but also from the extra-work environment{[}@JIN2017{]}. In this last
+aspect, psychosocial assessment methods seek to evaluate aspects such as
+time away from work activities, family relationships, the economy of the
+family group, commuting to work, among others. Some derivations or
+generalizations of the exposed evaluation methods have contributed to
+the improvement of well-being and good practices in the academic
+context, promoted or the development of a mechanism for the promise of
+stress management evidenced in Collen's work{[}@COLLEN2013{]}. Other
+contributions have allowed approaches to identify the behaviors
+associated with happiness, well-being, and the stress perceived in
+university students{[}@CALDERON2019{]}.
+
+The diversity of scenarios where evaluation methods play an essential
+role, in turn, entails a series of challenges of experimental
+validation, in which the aim is to establish correlation values of the
+aspects evaluated with the real scenario{[}@RUBIO-CASTRO2015{]} or its
+factor structure{[}@BLANCH2010{]}. Although there is high statistical
+support for several of the items raised within the questionnaires, it
+can be evidenced that the mechanisms and procedures are susceptible to
+variability and subjectivity in the
+measures{[}@CAICOYA2004{]}{[}@RICK2000{]}. Experimentations have the
+caveat that samples are related to a particular segment of the
+population. Also, some items in questionnaires assess relevant aspects
+of daily activities that are not observed by specialists in occupational
+safety and health that a. This last issue reduces the amount of evidence
+drastically to establish reference values{[}@BENAVIDES2002{]}.
+
+\hypertarget{technologic-approaches-supporting-pria}{%
+\subsection{Technologic approaches supporting
+PRIA}\label{technologic-approaches-supporting-pria}}
+
+Some references have addressed some aspects related to the mental health
+of people in the workplace{[}@CHOI2018{]}{[}@GOLONKA2019{]}. Some of
+these works have resulted in technological solutions for monitoring some
+specific aspects of psychosocial risk, ranging from the implementation
+of load controls on the extremities and other parts of the body based on
+sensors{[}@HUANG2012{]}. Other approaches focus on reducing accidents by
+detecting elements or obstacles that can generate an accident. Among
+these approaches, works that identify liquid spills or tools oriented to
+the environment can be noted{[}@SEO2012{]}. On the other hand, to
+identify aspects related to the mental condition in people, approaches
+have been made through the use of artificial intelligence and computer
+vision. In some of these approaches, electroencephalogram images
+analysis is used to assess stress in people{[}@JEBELLI2018{]}. Other
+works such as those by Zack Zhu{[}@ZHU2016{]} or Raffaele
+Gravina{[}@GRAVINA2019{]}, suggest alternative perspectives, based on
+the recognition of mood, from the capture of signals with portable
+electronic devices.
+
+Other approaches address the capture and integration with other data
+sources, resulting in multimodal
+architectures{[}@MAGDIN2016{]}{[}@SOLEYMANI2017{]}, in which the
+processing of video images, text, signals, among others, is used to
+support the diagnosis of emotions{[}@HARLEY2015{]}. Works such as that
+of Le Yang{[}@YANG2017{]} and Poria Soujana{[}@PORIA2017{]} suggest the
+fusion of paralinguistic analysis, capturing interview responses,
+features of the face widely addressed{[}@JAIN2018{]}{[}@ZHU2018{]}, and
+eye movement{[}@ALGHOWINEM2018{]}. Some approaches are oriented to
+detect the effects of psychosocial risk factors, such as stress by
+performance demands{[}@DINGES2005{]} and depression.
+
+\textbf{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad
+minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid
+ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit
+esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat
+cupiditat non proident, sunt in culpa qui officia deserunt mollit anim
+id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed eiusmod tempor incidunt ut labore et dolore magna aliqua}. Although
+these advances represent significant potential for the manufacturing
+industry, construction, among others{[}@REID2017{]}, there are studies
+such as that of Shall Mark{[}@SCHALL2018{]}, where there is evidence of
+limitations for its adoption, the implications of cost; the interruption
+of work activities, the intrusive nature represented in the discomfort
+with the devices and the privacy of people.
+
+In these approaches, a significant contribution is evident in the
+analysis of voice patterns, and some aspects of interest are addressed
+within the evaluation of FRP. However, the video mode used in the posts
+above, focuses only on facial recognition, requiring the close-up
+capture of people's faces and the use of sensors. Also, constant
+monitoring considered.
+
+
+\end{document}

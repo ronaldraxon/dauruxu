@@ -6,10 +6,7 @@ output: pdf_document
 
 # Artificial intelligence in activites and emotion recognition
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Video scene analysis: an overview and challenges on deep learning algorithms[@ABBAS2017]
-
+Como se pudo evidanciar en la sección [4](Implicit Activities and emotions in PRIF-EM) existen actividades y emociones que pueden ser capturadas por cámaras y cuyo análisis puede constiuir una fuente significativa de datos en forma de métricas e indicadores para facilitar la evaluación psicosocial. No obstante la extracción de los datos así como su interpretación de forma automática constituye un reto tecnologico el cual ha si ampliamente abordado por disciplinas como computer vision[@ABBAS2017]. adquirir, procesar, analizar y comprender las imágenes del mundo real . Esta disciplina ha traido nuevas oportunidades de aprovechamiento de datos en imágenes empleando algoritmos de machine learning y soportándose en algunos casos, en sistemas de cómputo de alto desempeño[]. 
 
 ## Activities Recognition
 

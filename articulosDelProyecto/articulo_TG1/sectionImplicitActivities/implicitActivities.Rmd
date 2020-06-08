@@ -6,37 +6,41 @@ output: pdf_document
 
 # Implicit Activities and emotions in PRIF-EM
 
-**This subsection introduces the work of extracting activities and emotions from the PRIF-EM**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
-
-Spanish Version of the CD-RISC Resilience Scale for Chronic Stress Situations[@CRESPO2014]
-  Beck Anxiety Inventory (BAI)[@SANZ2012]
-
+From the review of the works related to the measurement of physical and psychological aspects in work and academic settings, a potential opportunity is found, for the use of artificial intelligence as a support component in the psycho-social assessment. The questionnaires currently used for quantitative and qualitative assessment implicitly contain activities, emotions, moods, and situations that the person providing the test answers may experience. In this project, we will limit ourselves to extracting the functional activities that are to support the physical, social, and psychological well-being of a person and allows that person to function in society []. Additionally, they will extract the Instrumental Activity of Daily Living (IADL), which is defined as those activities that allow an individual to live independently in a community. according[]. On the other hand, the emotions within the items of the questionnaires will be extracted, taking as reference the study of emotions by Paul Ekman [].
 
 ## Methodology of extraction
 
-**The first paragraph will descibe the references sources used to get PRIFEM related work**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Como primer paso de la metodología de extracción se efectua un análisis detallado de los mecanismo empleados en las publicaciones. Entre las diferentes motivaciones para el uso de los mecanismos se encuentra la validación en un segmento de problación especifico[], el soporte metodológico y de cuantificación para la validación experimental[] soportada[] o la adaptación de todos o algunos de sus items en un contexto definido[]. La motivación en este caso, será la de identificar los cuestionarios mencionados en artículos que establecen su enfoque en aspectos relacionados con los riesgos psicosociales en los contextos laboral y académico. Posterior a esto, se extraen los dominios de aplicación que agrupan los diferentes items o preguntas que son efectuadas a las personas evaluadas. Cada item es analizado, con el fin identificar las actividades, emociones y la frecuencia en la que se presentan. Para orientar la extracción de dichas actividades y emociones se toma como referencia el trabjo de Melzer[@MELZER2019] en el que se aborda el reconocimiento de emociones a partir de los movimientos corporales. Esta aproximación no sólo representa una referencia metodológica, sino que encaja con el alcance del trabajo para la identificación y caracterización de escenarios en los que se involucren las acciones realizadas por personas y que puedan ser capturadas mediante cámaras de video.
 
-hOW DO WE RECOGNIZE EMOTIONS FROM MOVEMENTS[@MELZER2019]
+Dentro de las referencias seleccionadas se establece una separación en los dos contextos. Si bien el contexto laboral contiene una amplia variedad de articulos en los que se han desarrollado nuevos mecanismos y se han identificado posibles mejoras, en el ámbito académico se evidencia  una cantidad considerable de situaciones que han traido la atención de expertos en medicina y psicología. Los aspectos evaluados en el ámbito académico no difieren del todo respecto  los estudiados en el ámbito laboral, debido a que las variaciones están inclinadas en el lugar donde toman lugar y el rol que efectuan las personas en estos contextos. Se puede pensar que en este contexto académico existe una fuerte conexión con el laboral, en la medida que se encuentra el rol del cuerpo docente quienes en su labor de orientar a los estudiantes, pueden estar expuestos a los diversos factores de riesgo psicosocial de un lugar de trabajo. La tabla , muestra los mecanismos extraidos de los artículos seleccionados.
 
-**The second paragraph will describe the authors working in methods oriented to assess Psychosocial risk in academic environments**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**The Third paragraph will describe the authors working in methods oriented to assess Psychosocial risk in work environments**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+| **Author** | **Assesment mechanism or scale** |
+|:-:|:--------:|
+| Alotaibi-2020[@Alotaibi2020] | Pittsburgh Sleep Quality Index (PSQI) <br/> Kessler Psychological Distress Scale (K10) |
+| Calderon-2019[@Calderon2019] | Ryff Scales of Psychological Well-being |
+| Thomas-2019[@Thomas2019] | Perceived Scale Test (PSS) The Three-Factor Eating Questionnaire |
+| Ben Ami-2018[@Benami2018] | Survey of personal and social development |
+| Moy-2014[@Moy2014] | Smoking-alcohol consumption and physical activities (IPAQ) The job content questionnaire (JCQ) Depression-anxiety and stress scale (DASS) |
+| Conley-2013[@Conley2013] | Psychometric analysis and refinement of the Connor Davidson Resilience Scale (CD-RISC) The Dysfunctional Attitude Scale |
 
-**The Fourh paragraph introduces a table of identified PRI0-FEM (It shows a table)**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Por su parte, se efectua la selección de artículos relacionados con el ambiente laboral (ver la tabla ). Para este escenario particular, se tomará como referencia la bateria de evaluación de factores de riesgo psicosocial, el cual es una adaptación de mecanismos existentes en adicion a otros componentes desarrollados por el ministerio del trabajo en Colombia, en conjunto con la universidad pontificia javeriana. Esta referencia mostrará los pasos adicionales efectuados con los cuestionarios de valoración.
 
-|              Author             |     Environment     |                                          Assessment mechanism/scale                                          |
-|:-------------------------------:|:-------------------:|:------------------------------------------------------------------------------------------------------------:|
-| Golonka, 2019[@Golonka2019]     |         Work        | Maslach Burnout Inventory – General Survey (MBI-GS), NEO Five-Factor Inventory,  Beck’s Depression Inventory |
-| Mausner, 2000[@Mausner2000]     |         Work        |                                         Quality of Employment Surveys                                        |
-| Boyes, 2002 [@Boyes2002]        |         Work        |                Hospital Anxiety and Depression Scale, Short-form Supportive Care Needs Survey                |
-| Rodríguez, 2009[@Rodriguez2009] |         Work        |                                  Hipótesis de la tensiòn del trabajo Karasek                                 |
-| Blanch, 2010[@Blanch2010]       |         Work        |                     El cuestionario “FPSICO” El Cuestionario de Bienestar Laboral General                    |
-| Luca, 2014[@Luca2014]           |         Work        |                                        Beck Depression Inventory (BDI)                                       |
-| Maeda, 2016 [@Maeda2016]        |         Work        |                                   International Neuropsychiatric Interview                                   |
+| **Author** | **Environment** | **Assesment mechanism or scale** |
+|:-:|:------:|
+| Golonka-2019[@Golonka2019] | Maslach Burnout Inventory General Survey (MBI-GS)-NEO Five-Factor Inventory-Beck's Depression Inventory |
+| Maeda-2016[@Maeda2016] | International Neuropsychiatric Interview |
+| Najder-2016[@Najder2015] | The Psychosocial Risk Scale (PRS) |
+| Luca-2014[@Luca2014] | Beck Depression Inventory (BDI) |
+| Charria-2012[@Charria2012] | Cuestionario Encuesta de Calidad de Vida en el trabajo Cuestionario para la Evaluación del Estrés-Batería para la evaluación de factores de riesgo psicosocial Utrecht Work Engagement Scale Cuestionario Psicosocial de Copenhague (CoPsoQ) |
+| Blanch-2010[@Blanch2010] | El cuestionario FPSICO El Cuestionario de Bienestar Laboral General |
+| Rodríguez-2009[@Rodriguez2009] | Hipótesis de la tensión del trabajo Karasek |
+| Boyes-2002[@Boyes2002] | Hospital Anxiety and Depression Scale-Short-form Supportive Care Needs Survey |
+| Mausner-2000[@Mausner2000] | Quality of Employment Surveys |
+
 
 **The Fifth paragraph list dimensions and scope identificacion of the items in main PRIF-EM**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**The sixth paragraph will introduce a table with the quantity of items which mentions any kind of activity**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 |                                                                                           Mecanismo                                                                                           |  año | Items |                                                   Topicos                                                   |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:-----------------:|:-----------------------------------------------------------------------------------------------------------:|
@@ -54,6 +58,18 @@ hOW DO WE RECOGNIZE EMOTIONS FROM MOVEMENTS[@MELZER2019]
 | Survey of personal a social development                                                                                                                                                       | 2000 | 5                 | Medir frecuencias de consumo de tabaco, alcohol y síntomas psicológicos                                     |
 
 **The Sevent paragraph will introduce a table with the quantity of items that can be linked to emotions**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Spanish Version of the CD-RISC Resilience Scale for Chronic Stress Situations[@CRESPO2014]
+Beck Anxiety Inventory (BAI)[@SANZ2012]
+
+
+**The sixth paragraph will introduce a table with the quantity of items which mentions any kind of activity**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+```{r drowsiness,echo=FALSE, out.width='80%', fig.align='center',fig.cap="Example of a drowsiness scene."}
+knitr::include_graphics('./8_datasets_n_images/images/Drowsiness.png')
+```
 
 ## Activities and emotions inventory
 
