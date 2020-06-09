@@ -24,6 +24,8 @@ Dentro de las referencias seleccionadas se establece una separación en los dos 
 | Moy-2014[@Moy2014] | Smoking-alcohol consumption and physical activities (IPAQ) The job content questionnaire (JCQ) Depression-anxiety and stress scale (DASS) |
 | Conley-2013[@Conley2013] | Psychometric analysis and refinement of the Connor Davidson Resilience Scale (CD-RISC) The Dysfunctional Attitude Scale |
 
+Table: Articles oriented to academic environments
+
 Por su parte, se efectua la selección de artículos relacionados con el ambiente laboral (ver la tabla ). Para este escenario particular, se tomará como referencia la bateria de evaluación de factores de riesgo psicosocial, el cual es una adaptación de mecanismos existentes en adicion a otros componentes desarrollados por el ministerio del trabajo en Colombia, en conjunto con la universidad pontificia javeriana. Esta referencia mostrará los pasos adicionales efectuados con los cuestionarios de valoración.
 
 | **Author** | **Environment** | **Assesment mechanism or scale** |
@@ -38,8 +40,10 @@ Por su parte, se efectua la selección de artículos relacionados con el ambient
 | Boyes-2002[@Boyes2002] | Hospital Anxiety and Depression Scale-Short-form Supportive Care Needs Survey |
 | Mausner-2000[@Mausner2000] | Quality of Employment Surveys |
 
+Table: Articles oriented to Work environments 
 
 **The Fifth paragraph list dimensions and scope identificacion of the items in main PRIF-EM**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 
 |                                                                                           Mecanismo                                                                                           |  año | Items |                                                   Topicos                                                   |
@@ -57,6 +61,8 @@ Por su parte, se efectua la selección de artículos relacionados con el ambient
 | The Pittsburgh Sleep Quality Index (PSQI)                                                                                                                                                     | 2000 | 1                 | Destinado a medir los hábitos de sueño                                                                      |
 | Survey of personal a social development                                                                                                                                                       | 2000 | 5                 | Medir frecuencias de consumo de tabaco, alcohol y síntomas psicológicos                                     |
 
+
+
 **The Sevent paragraph will introduce a table with the quantity of items that can be linked to emotions**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Spanish Version of the CD-RISC Resilience Scale for Chronic Stress Situations[@CRESPO2014]
@@ -68,7 +74,7 @@ Beck Anxiety Inventory (BAI)[@SANZ2012]
 
 
 ```{r drowsiness,echo=FALSE, out.width='80%', fig.align='center',fig.cap="Example of a drowsiness scene."}
-knitr::include_graphics('./8_datasets_n_images/images/Drowsiness.png')
+#knitr::include_graphics('D:/Ronald Fernando/dauruxu/articulo_TG1/8_datasets_n_images/images/Drowsiness.png')
 ```
 
 ## Activities and emotions inventory
