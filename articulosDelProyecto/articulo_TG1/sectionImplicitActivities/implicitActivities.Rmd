@@ -10,9 +10,9 @@ From the review of the works related to the measurement of physical and psycholo
 
 ## Methodology of extraction
 
-Como primer paso de la metodología de extracción se efectua un análisis detallado de los mecanismo empleados en las publicaciones. Entre las diferentes motivaciones para el uso de los mecanismos se encuentra la validación en un segmento de problación especifico[], el soporte metodológico y de cuantificación para la validación experimental[] soportada[] o la adaptación de todos o algunos de sus items en un contexto definido[]. La motivación en este caso, será la de identificar los cuestionarios mencionados en artículos que establecen su enfoque en aspectos relacionados con los riesgos psicosociales en los contextos laboral y académico. Posterior a esto, se extraen los dominios de aplicación que agrupan los diferentes items o preguntas que son efectuadas a las personas evaluadas. Cada item es analizado, con el fin identificar las actividades, emociones y la frecuencia en la que se presentan. Para orientar la extracción de dichas actividades y emociones se toma como referencia el trabjo de Melzer[@MELZER2019] en el que se aborda el reconocimiento de emociones a partir de los movimientos corporales. Esta aproximación no sólo representa una referencia metodológica, sino que encaja con el alcance del trabajo para la identificación y caracterización de escenarios en los que se involucren las acciones realizadas por personas y que puedan ser capturadas mediante cámaras de video.
+analysis of the mechanisms used in the publications. There are different motivations for the use of the mechanisms. It was found validation in specific population segments [], methodological quantification support for experimental validation [], and adaptation of some of its items in a defined context[ ]. The motivation, in this case, will be to identify the questionnaires mentioned in articles that establish their focus on aspects related to psychosocial risks in the work and academic contexts. After this, there was an extraction of application domains that group different items or questions made to the evaluated people. Each item was decomposed in order to identify implicit the activities, emotions. Also, activities frequencies considerations were extracted as a complement in activity characterization. This whole process was conducted by taking  Melzer's work [@MELZER2019] as references, which deals with the recognition of emotions from body movements. This approach not only represents a methodological reference but also fits with the scope of the work for the identification and characterization of scenarios in which actions carried out by people are involved and can be captured by video cameras.
 
-Dentro de las referencias seleccionadas se establece una separación en los dos contextos. Si bien el contexto laboral contiene una amplia variedad de articulos en los que se han desarrollado nuevos mecanismos y se han identificado posibles mejoras, en el ámbito académico se evidencia  una cantidad considerable de situaciones que han traido la atención de expertos en medicina y psicología. Los aspectos evaluados en el ámbito académico no difieren del todo respecto  los estudiados en el ámbito laboral, debido a que las variaciones están inclinadas en el lugar donde toman lugar y el rol que efectuan las personas en estos contextos. Se puede pensar que en este contexto académico existe una fuerte conexión con el laboral, en la medida que se encuentra el rol del cuerpo docente quienes en su labor de orientar a los estudiantes, pueden estar expuestos a los diversos factores de riesgo psicosocial de un lugar de trabajo. La tabla , muestra los mecanismos extraidos de los artículos seleccionados.
+Within the selected references, we could establish a separation between our two contexts of interest. Although the workplace context contains a wide variety of contributions evidenced in new assessment mechanisms development and possible improvements could be identified over other publications[], there is a considerable number of situations that have brought the attention of experts in medicine and psychology in the academic environment[]. The aspects evaluated in the academic field do not differ entirely from those studied in the workplace. There are few variations in the place where they take place and the role that people perform in these contexts. For instance, during the execution of the role of the teaching,  psychosocial risk factors related to work could be present. Table 3 shows the mechanisms extracted from the selected articles.
 
 
 | **Author** | **Assesment mechanism or scale** |
@@ -63,6 +63,8 @@ Table: Articles oriented to Work environments
 
 
 
+
+
 **The Sevent paragraph will introduce a table with the quantity of items that can be linked to emotions**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Spanish Version of the CD-RISC Resilience Scale for Chronic Stress Situations[@CRESPO2014]
@@ -72,20 +74,66 @@ Beck Anxiety Inventory (BAI)[@SANZ2012]
 **The sixth paragraph will introduce a table with the quantity of items which mentions any kind of activity**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-
-```{r drowsiness,echo=FALSE, out.width='80%', fig.align='center',fig.cap="Example of a drowsiness scene."}
-#knitr::include_graphics('D:/Ronald Fernando/dauruxu/articulo_TG1/8_datasets_n_images/images/Drowsiness.png')
+```{r,echo= TRUE }
+##
+##
+##Here there will be code to print
+##tables from files.
+##
+##
+##
+##
+##
+##
+##
+##
+##The table size will be approximately of this 
+##code chunk size
+##
+##
 ```
+
 
 ## Activities and emotions inventory
 
-**This sections will introduce a table were is an inventory of activities and emotions that can be tracked by camera**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**This sections will introduce a table were is an inventory of activities and emotions that can be tracked by camera**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum **Figure \ref{fig:drowsiness}**.
+
+```{r drowsiness,echo=FALSE, out.width='80%', fig.align='center',fig.cap="Example of a drowsiness scene."}
+knitr::include_graphics('./8_datasets_n_images/images/Drowsiness.png')
+```
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum **Figure \ref{fig:activities1}**.. 
+
+sedentarismo
+EMPIRICAL STUDY OF KNOWLEDGE, ATTITUDE AND PRACTICE TOWARDS TO RADIATION HEALTH HAZARDS OF CELL PHONE: A CASE STUDY ON MEDICAL SCIENCE STUDENTS [@IJHSE422]
+Access to evidence-based care for eating disorders during the COVID-19 crisis [Weissman2020]
+
+```{r activities1,echo=FALSE, out.width='100%', fig.align='center',fig.cap="Example of activities."}
+knitr::include_graphics('./8_datasets_n_images/images/Activities1.png')
+```
+
+
 
 ```{r,echo= TRUE }
 ##
 ##
 ##Here there will be code to print
 ##tables from files.
+##
+##
+##
+##
+##
+##
+##
+##
+##
 ##
 ##
 ##The table size will be approximately of this 
