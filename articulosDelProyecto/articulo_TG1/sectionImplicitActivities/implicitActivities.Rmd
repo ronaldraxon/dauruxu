@@ -26,7 +26,7 @@ Within the selected references, we could establish a separation between our two 
 
 Table: Articles oriented to academic environments
 
-Por su parte, se efectua la selección de artículos relacionados con el ambiente laboral (ver la tabla 4). Como se mencionó anteriormente, se pueden encontrar mecanismos que son empleados para ambos contextos como el Maslach Burnout Inventory or el Beck Depression Inventory. Para cada mecanismo de evaluación relacionado, se efectua un análisis de los componentes de los cuestionarios, así como las escalas que soportan su calificación. 
+Moreover, the selection of articles related to the work environment is made (see table 4).  An analysis is performed to each related evaluation mechanism in order to extract the components of the questionnaires. Also, the analysis will permit to identify scales that support qualification.
 
 | **Author** | **Environment** | **Assesment mechanism or scale** |
 |:-:|:------:|
@@ -42,102 +42,43 @@ Por su parte, se efectua la selección de artículos relacionados con el ambient
 
 Table: Articles oriented to Work environments 
 
-El proceso de análisis comprende el entendimiento del alcance cubierto por el mecanismo. Uno de los principales referentes en el presente trabajo, es  la batería de evaluación de factores de riesgo psicosocial[] el cual retoma elementos de los modelos de demanda-control-apoyo social del Karasek, Theorell (1990) y Jonhson, del modelo de desequilibrio esfuerzo-recompensa de Siegrist (1996 y 2008) y del modelo dinámico de los factores de riesgo psicosocial de Villalobos (2005).  La disposición de este mecanismo de evaluación sugiere un constructo de condiciones intralaborales, la cual esta compuesta por dominios y dimensiones. El dominio de demandas del trabajo comprende las dimensiones de demandas cuantitativas, carga mental, emocionales, jornada de trabajo, ambientales y de esfuerzo físico. El dominio de control, cuantifica las dimensiones relacionadas con la autonomia sobre el trabajo, la claridad del rol, oportunidades de desarrollo, el uso de habilidades y las destrezas. El dominio de liderazgo y control, comprende dimensiones de caracteristicas de relaciones sociales en el trabajo, retroalimentación del desempeño y la relación con los subordinados. Finalmente, el dominio de recompensa que comprende las dimensiones de reconocimiento, compensación y recompensas derivadas de la pertenencia a la organización y del trabajo realizado.
+The analysis process includes the understanding of the scope covered by the mechanism. One of the primary references in this work is the battery of psychosocial risk factor evaluation [] which takes up elements from the Karasek, Theorell (1990) and Jonhson models of demand-control-social support, from the imbalance model effort-reward of Siegrist (1996 and 2008) and of the dynamic model of the psychosocial risk factors of Villalobos (2005). The disposition of this evaluation mechanism suggests a construct of intra-labor conditions, which is made up of domains and dimensions. The domain of work demands includes the dimensions of quantitative demands, mental load, emotional, workday, environmental and physical effort. The control domain quantifies the dimensions related to autonomy overwork, clarity of the role, opportunities for development, the use of skills and abilities. The domain of leadership and control includes dimensions of characteristics of social relations at work, performance feedback, and the relationship with subordinates. Finally, the reward domain that includes the dimensions of recognition, compensation, and rewards derived from belonging to the organization, and the work is done.
 
-Por otra parte la batería evalua condiciones extralaborale, que comprenden los aspectos del entorno familiar, social y económico del trabajador. A su vez, abarcan las condiciones del lugar de vivienda, que pueden influir en la salud y bienestar del individuo. Tiempo fuera del trabajo, Relaciones familiares, Comunicación y relaciones interpersonales, Situación económica del grupo familiar, entre otros. Las condiciones individuales aluden a una serie de características propias de cada trabajador o características socio-demográficas como el sexo, la edad, el estado civil, el nivel educativo, la ocupación (profesión u oficio), la ciudad o lugar de residencia, la escala socio-económica (estrato socio-económico), el tipo de vivienda y el número de dependientes. Estas características socio-demográficas pueden modular la percepción y el efecto de los factores de riesgo intralaborales y extralaborales y podrían ser empleadas como complemento a las caracteristicas empleadas en modelos de clasificación o regresión para aportar a las metricas de apoyo para la valoración psicosocial. Si bien interés de este trabajo se centra en las caracteriticas de las actividades y emociones a validar con los mecanismos, en la revisión efecuada de los diferentes cuestiorarios se extraen este tipo de características.
-
-En adición a la identificación del alcance, se procede a indentificar los items o preguntas que puedan contener implicito alguna actividad o emoción experimentada por la persona evaluada. La tabla \ref{tab:actividades}, describe los mecanimos, cuyos items se relacionan con actividades. Cualquier conjunto de acciones que constituyan una actividad.
-
-
-|                                                                                           Mecanismo                                                                                           |  año | Items |                                                   Topicos                                                   |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:-----------------:|:-----------------------------------------------------------------------------------------------------------:|
-| Cuestionario Encuesta de Calidad de Vida en el trabajo, aplicado en España por el Ministerio de Trabajo e Inmigración                                                                         | 2018 | 3                 | Trabajo prolongado o jornada extensa,Estrés, Ansiedad, Depresión, Problemas de sueño                        |
-| Cuestionario para la Evaluación del Estrés, que hace parte de la batería para la evaluación de factores de riesgo psicosocial publicada por el Ministerio de la Protección Social en Colombia | 2020 | 5                 | Trabajo prolongado Posturas inapropiadas Ausencia o presencia de descansos Estrés                           |
-| Maslach Burnout Inventory (Edu y Labo)                                                                                                                                                        | 2001 | 3                 | Trabajo prolongado, jornada extensa y condiciones                                                           |
-| Escala de Desgaste Ocupacional[@MELZER2019]                                                                                                                                                              | 2000 | 2                 | Trabajo prolongado o jornada extensa.  Problemas de sueño Depresión                                         |
-| Utrecht Work Engagement Scale, que evalúa la experiencia de engagement y bienestar                                                                                                            | 2000 | 2                 | Trabajo prolongado o jornada extensa.  Actividades de bienestar                                             |
-| Inventario de violencia y acoso psicológico en el trabajo                                                                                                                                     | 2000 | 1                 | Trabajo prolongado o jornada extensa                                                                        |
-| Perceived Scale Test (PSS) Cohen, Kamarck and Mermelstein                                                                                                                                     | 2000 | 1                 | Medición de la percepción del estrés                                                                        |
-| Depression, anxiety and stress scale (DASS21)                                                                                                                                                 | 2000 | 5                 | Test de autovaloración de síntomas físicos                                                                  |
-| The Three-Factor Eating Questionnaire                                                                                                                                                         | 2000 | 5                 | Cuestionario de tres factores de ingesta                                                                    |
-| The Kessler Psychological Distress Scale (K10)                                                                                                                                                | 2000 | 3                 | Destinado a producir una medida global de angustia basada en preguntas sobre ansiedad y síntomas depresivos |
-| The Pittsburgh Sleep Quality Index (PSQI)                                                                                                                                                     | 2000 | 1                 | Destinado a medir los hábitos de sueño                                                                      |
-| Survey of personal a social development                                                                                                                                                       | 2000 | 5                 | Medir frecuencias de consumo de tabaco, alcohol y síntomas psicológicos                                     |
-
-
-**The Sevent paragraph will introduce a table with the quantity of items that can be linked to emotions**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Spanish Version of the CD-RISC Resilience Scale for Chronic Stress Situations[@CRESPO2014]
-Beck Anxiety Inventory (BAI)[@SANZ2012]
-
-
-**The sixth paragraph will introduce a table with the quantity of items which mentions any kind of activity**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-```{r,echo= TRUE }
-##
-##
-##Here there will be code to print
-##tables from files.
-##
-##
-##
-##
-##
-##
-##
-##
-##The table size will be approximately of this 
-##code chunk size
-##
-##
-```
-
+On the other hand, the battery evaluates extra-labor conditions, which include aspects of the worker's family, social, and economic environment. In turn, they cover the conditions of the place of residence, which can influence the health and well-being of the individual. Time away from work, family relationships, communication, and interpersonal relationships, the financial situation of the family group, among others. The individual's conditions refer to a series of characteristics characteristic of each worker or socio-demographic characteristics such as sex, age, marital status, educational level, occupation (profession or trade), city or place of residence, scale socio-economic (socio-economic stratum), the type of dwelling and the number of dependents. These socio-demographic characteristics can modulate the perception and effect of intra-occupational and extra-occupational risk factors. They could be used as a complement to the characteristics used in classification or regression models to contribute to the support metrics for psychosocial assessment. Although the interest of this work focuses on the features related to activities and emotions, the mentioned scenarios will be extracted in the ongoing review of the different questionnaires.
 
 ## Activities and emotions inventory
 
-**This sections will introduce a table were is an inventory of activities and emotions that can be tracked by camera**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In addition to identifying the scope, we proceed to identify the items or questions that may implicitly contain any activity or emotion experienced by the person evaluated. Table \ref{tab: activities} describes the evaluation mechanisms and a total of seventy-nine potential items. For each item, we identify what type of emotion or activity it could belong to as well as the related context. As can be seen, the Perceived Scale Test (PSS) questionnaire contains questions related to emotions as well as the frequency in which the evaluated person experiences these situations. These types of questions suggest a type of periodic control that could be used for the generation of a monthly indicator.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum **Figure \ref{fig:drowsiness}**.
-
-```{r drowsiness,echo=FALSE, out.width='80%', fig.align='center',fig.cap="Example of a drowsiness scene."}
-knitr::include_graphics('./8_datasets_n_images/images/Drowsiness.png')
+```{r activities, eval=T, echo=FALSE, message=F, warning=F}
+library(dplyr)
+library(kableExtra)
+base_completa<-read.csv("../8_datasets_n_images/question.csv",sep =";",header=TRUE)
+base_completa<-base_completa %>% mutate_if(is.numeric, format, digits=3,nsmall = 0)
+base_completa<-base_completa[,c(1,8,6,7)]
+kableExtra::kable(base_completa, caption="Items from questioneirs",format='latex',
+                  booktabs = TRUE)%>%
+      kable_styling(bootstrap_options = "striped", 
+      font_size = 8,full_width = F,latex_options = "scale_down")  %>% pack_rows(
+  index = c("Perceived Scale Test (PSS)" = 4, 
+            "Depression, anxiety and stress scale (DASS21)" = 7, 
+            "The Three-Factor Eating Questionnaire" = 4,
+            "The Kessler Psychological Distress Scale (K10)" = 6, 
+            "The Pittsburgh Sleep Quality Index (PSQI)" = 1, 
+            "Survey of personal a social development" = 9, 
+            "Maslach Burnout Inventory" = 2,
+            "Occupational burnout scale" = 11,
+            "Stress Assessment Questionnaire" = 10,
+            "Cuestionario psicosocial de Copenhague" = 5,
+            "Inventario de depresión de Beck" = 20)
+)
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Meanwhile, the Depression, anxiety, and stress scale (DASS21) manifest some activities that are noticeable such as body tremors or breathing difficulties. This representation of physical symptoms may be related to moods or medical conditions that are of interest for monitoring. Other activities that can be captured are those mentioned in The Three-Factor Eating Questionnaire. In this mechanism, activities are not only related to eating habits but also suggests a condition of anxiety in cases of a high frequency of food intake.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Like the PSS test, the Kessler Psychological Distress Scale (K10) includes items that inquire about emotional states over a while, being this a little more diverse in situations that suggest emotions and including drowsiness, which is addressed by The Pittsburgh Sleep Quality Index (PSQI). The Survey of personal and social development is an assessment-oriented questionnaire in academic settings. It mainly concerns the relevant aspects of the daily life of students and their habits. Also, this mechanism relates activities such as aerobic exercise or cigarette or alcohol consumption. For this academic context, an adaptation of the Maslach Burnout Inventory was reviewed as well, as it focuses on the emotions of the teaching staff during their working day as their motivation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum **Figure \ref{fig:activities1}**.. 
-
-sedentarismo
-EMPIRICAL STUDY OF KNOWLEDGE, ATTITUDE AND PRACTICE TOWARDS TO RADIATION HEALTH HAZARDS OF CELL PHONE: A CASE STUDY ON MEDICAL SCIENCE STUDENTS [@IJHSE422]
-Access to evidence-based care for eating disorders during the COVID-19 crisis [Weissman2020]
-
-```{r activities1,echo=FALSE, out.width='100%', fig.align='center',fig.cap="Example of activities."}
-knitr::include_graphics('./8_datasets_n_images/images/Activities1.png')
-```
+Other types of physical or somatic representations are dealt with on the Occupational burnout scale. In this mechanism, activities are around the actions that a person can have when experiencing physical pain or discomfort. In addition to these activities, actions related to stress can be identified. The Stress Assessment Questionnaire lists sleep disorders, difficulty staying still, and consumption of alcoholic beverages or smoking. As we can see, the Copenhagen psycho-social questionnaire contains a set of activities that include interaction and social isolation. Finally, other mechanisms relate situations and activities to anxiety and depression, such as the Beck Anxiety Inventory [@SANZ2012] and the Beck Depression Inventory.
 
 
 
-```{r,echo= TRUE }
-##
-##
-##Here there will be code to print
-##tables from files.
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##The table size will be approximately of this 
-##code chunk size
-##
-##
-```

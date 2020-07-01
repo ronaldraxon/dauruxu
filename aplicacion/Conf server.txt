@@ -1,0 +1,7 @@
+Storage server confg
+IP: 192.168.0.7
+PORT: 8000
+
+Stream server
+IP: 192.168.0.7
+Port: 554

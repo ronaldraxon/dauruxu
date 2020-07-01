@@ -18,30 +18,34 @@ Within this project, the use of activity detection with techniques and algorithm
 
 Another relevant topic is gait analysis. Among the authors who have contributed significantly is Dr. Jacquelin Perry [@PERRY2010]. Gait analysis consists of detecting and recording human movements taking into account characteristics such as step length, cadence, speed, dynamic base, line of progression, foot angle, among others. This area of research has contributed to the construction of models for the analysis of brain problems from displacement [@FLUX2020102585]. Other works such as Kitade's [@KITADE2020] use gait analysis to study the expressive, appellative, or communicative meaning of body movements in the diagnosis of musculoskeletal disorders and which are highly relevant in the evaluation of psychosocial risk.
    
-En adición  a las aproximaciones expuestas, se pueden encontrar trabajos con resultados de aplicación empleados mayormente en la industria automotriz. Este escenario corresponde a la detección de somnolencia en los conductos con fines de prevención de accidentes.
-Driver's drowsiness detection using an enhanced image processing technique inspired by the human visual system [@HEDYEH2016]
-Driver drowsiness detection using mixed-effect ordered logit model considering time cumulative effect [@ZHANG2020100114]
+In addition to the exposed approaches, we can find jobs with application results used mostly in the automotive industry. This scenario corresponds to the detection of drowsiness in drivers for accident prevention. Some approximations of this type are the usage of an enhanced image processing technique inspired by the human visual system mentioned in Hedyeh's work [@HEDYEH2016], or the usage mixed-effect ordered logit model considering a time- cumulative effect proposed by Zhang [@ZHANG2020100114].  
 
 ## Emotion Recognition
 
-**This paragraph will mention articles related to Emotions recognition via facial cues**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In the same way, we have mentioned some techniques to detect activities; we intend to identify emotions evaluated with psycho-social questionnaires and which can be experienced at work or a university as an academic environment. The emotions recognition, have become a widely explored research area with contributions such as the Hourglass of Emotions[@CAMBRIA2011] as this work proposes a  biologically-inspired and psychologically-motivated categorization for emotions. Also, some approaches have shown challenges alternatives to infer specific medical conditions by detecting emotional state changes from facial cues [@BARRET2019][@GIANNAKAKIS201789]. Nevertheless, this kind of approach requires a face close up to capture those images that will be processed later. As emotions can take place in several situations, to gather emotional content expressed by the body becomes an alternative that we intend to explore.
 
 
-Stress and anxiety detection using facial cues from videos [@GIANNAKAKIS201789]
-Challenge face recognition for emotions [@BARRET2019]
-HOURGLASS OF EMOTIONS [@CAMBRIA2011]
+
 Adaptive Body Gesture Representation for Automatic Emotion Recognition[@PIANA2016]
+
 Emotion Recognition from Body Movement [@AHMED2019]
-Deep Learning Approach for Emotion Recognition from Human Body Movements with Feedforward Deep Convolution Neural Networks[@SANTHOSHKUMAR2019158]
+
+Deep Learning Approach for Emotion Recognition from Human Body Movements with Feedforward Deep Convolution 
+
+Neural Networks[@SANTHOSHKUMAR2019158]
+
 A Brief Review of Facial Emotion Recognition Based on Visual Information [@KO2018]
-Automated Analysis of Facial Cues from Videos as a Potential Method for Differentiating Stress and Boredom of Players in Games [@BEVILACQUA2018]
+
+Automated Analysis of Facial Cues from Videos as a Potential Method for Differentiating 
+
+Stress and Boredom of Players in Games [@BEVILACQUA2018]
+
 Extended Deep Neural Network for Facial Emotion Recognition [@JAIN2019]
+
 Automatic Depression Scale Prediction using Facial Expression Dynamics and Regression [@JAN2014]
 
 **This paragraph will mention articles related to Emotions recognition via body movements**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-**This paragraph will mention articles related to Emotions recognition via multi-modal approaches**.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction [@CAMPOS2016]
 
