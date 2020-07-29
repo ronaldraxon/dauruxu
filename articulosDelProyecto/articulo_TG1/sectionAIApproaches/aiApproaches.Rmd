@@ -22,34 +22,13 @@ In addition to the exposed approaches, we can find jobs with application results
 
 ## Emotion Recognition
 
-In the same way, we have mentioned some techniques to detect activities; we intend to identify emotions evaluated with psycho-social questionnaires and which can be experienced at work or a university as an academic environment. The emotions recognition, have become a widely explored research area with contributions such as the Hourglass of Emotions[@CAMBRIA2011] as this work proposes a  biologically-inspired and psychologically-motivated categorization for emotions. Also, some approaches have shown challenges alternatives to infer specific medical conditions by detecting emotional state changes from facial cues [@BARRET2019][@GIANNAKAKIS201789]. Nevertheless, this kind of approach requires a face close up to capture those images that will be processed later. As emotions can take place in several situations, to gather emotional content expressed by the body becomes an alternative that we intend to explore.
+In the same way, we have mentioned some techniques to detect activities; we intend to identify emotions evaluated with psycho-social questionnaires and which can be experienced at work or a university as an academic environment. The emotions recognition, have become a widely explored research area with contributions such as the Hourglass of Emotions[@CAMBRIA2011] as this work proposes a  biologically-inspired and psychologically-motivated categorization for emotions. Also, some approaches have shown challenges alternatives to infer specific medical conditions by detecting emotional state changes from facial cues [@BARRET2019][@GIANNAKAKIS201789]. Nevertheless, most of these approaches as its seen in works such as Bevilacqua's [@BEVILACQUA2018] or Jain's [@JAIN2019] requires a face close up to capture those images that will be processed later. As emotions can take place in several situations, to gather emotional content expressed by the body becomes an alternative that we intend to explore.
 
+There is some research aimed at automating emotion recognition. However, this type of approach entails a challenge that constitutes the representation of body gestures. Works such as that of Piana [@PIANA2016], define a series of characteristics called gesture primitives. The association of movements is made by relating the emotions Anger, fear, happiness, disgust, sadness, and surprise that will be interpreted by in an architecture that extracts characteristics from low to a high level using mechanisms based on sparse dictionary learning, which can finally be classified by an SVM. Another similar work is that of Ferdous Ahmed [@AHMED2019], who uses previously conceived concepts such as Gait Analysis. In this case, the association of body movements with basic emotions is also performed by identifying emotions in poses and actions such as sitting or walking. Another notable difference is the conformation of a group of characteristics appropriate for the classification that is carried out employing assembly techniques and model stacking.
 
+A technique frequently used in the identification of emotions is the extraction of characteristics through Deep Learning, using variation in the convolutions that develop in its topology. We previously mentioned emotion recognition using facial cues and several papers and reviews related to it[@KO2018][@JAN2014]. Nevertheless, works such as Santhoshkumar's [@SANTHOSHKUMAR2019158] not only address concepts of kinesics but also employ the extraction of saliency information at multiple scales and the Block Average Intensity Value that reflects changes in the image after a systematic segmentation of the photograms. 
 
-Adaptive Body Gesture Representation for Automatic Emotion Recognition[@PIANA2016]
+Within the review of the mentioned articles, it was possible to identify techniques for the extraction of characteristics and their selection using genetic algorithms. Likewise, classification mechanisms and public databases used for experimental validation were identified. One of the most significant contributions is the use of hardware components such as Microsoft Kinect and libraries for the extraction of characteristics of body gestures from the identification of limbs and joint points. In the next section, some libraries will be explored, and experimentation will be carried out in order to identify their features and use potential.
 
-Emotion Recognition from Body Movement [@AHMED2019]
-
-Deep Learning Approach for Emotion Recognition from Human Body Movements with Feedforward Deep Convolution 
-
-Neural Networks[@SANTHOSHKUMAR2019158]
-
-A Brief Review of Facial Emotion Recognition Based on Visual Information [@KO2018]
-
-Automated Analysis of Facial Cues from Videos as a Potential Method for Differentiating 
-
-Stress and Boredom of Players in Games [@BEVILACQUA2018]
-
-Extended Deep Neural Network for Facial Emotion Recognition [@JAIN2019]
-
-Automatic Depression Scale Prediction using Facial Expression Dynamics and Regression [@JAN2014]
-
-**This paragraph will mention articles related to Emotions recognition via body movements**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction [@CAMPOS2016]
-
-
-**This paragraph will introduce a table listig authors contributions and summary (It shows a table) Este es el cierre de la sección**. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
