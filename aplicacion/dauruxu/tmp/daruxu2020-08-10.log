@@ -1,0 +1,67 @@
+2020-08-10 13:07:29,677 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:13:34,166 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:14:23,445 - INFO - autoreload: C:\Users\famil\Documents\dauruxu\aplicacion\dauruxu\dauruxu\settings.py changed, reloading.
+2020-08-10 13:14:30,008 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:20:16,551 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:21:14,552 - INFO - autoreload: C:\Users\famil\Documents\dauruxu\aplicacion\dauruxu\data_preprocess\services\core\DataPreprocessReportService.py changed, reloading.
+2020-08-10 13:21:18,590 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:23:24,614 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:25:38,257 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:25:43,600 - INFO - basehttp: "GET / HTTP/1.1" 302 0
+2020-08-10 13:25:43,722 - INFO - basehttp: "GET /dauruxu/admin/ HTTP/1.1" 302 0
+2020-08-10 13:25:43,772 - INFO - basehttp: "GET /dauruxu/admin/login/?next=/dauruxu/admin/ HTTP/1.1" 200 1945
+2020-08-10 13:25:43,795 - INFO - basehttp: "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2020-08-10 13:25:43,805 - INFO - basehttp: "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+2020-08-10 13:25:43,809 - INFO - basehttp: "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2020-08-10 13:25:43,822 - WARNING - log: Not Found: /favicon.ico
+2020-08-10 13:25:43,824 - WARNING - basehttp: "GET /favicon.ico HTTP/1.1" 404 2987
+2020-08-10 13:25:43,827 - INFO - basehttp: "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2020-08-10 13:25:48,904 - INFO - basehttp: "POST /dauruxu/admin/login/?next=/dauruxu/admin/ HTTP/1.1" 302 0
+2020-08-10 13:25:49,042 - INFO - basehttp: "GET /dauruxu/admin/ HTTP/1.1" 200 4422
+2020-08-10 13:25:49,090 - INFO - basehttp: "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2020-08-10 13:25:49,106 - INFO - basehttp: "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2020-08-10 13:25:49,108 - INFO - basehttp: "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2020-08-10 13:25:49,113 - INFO - basehttp: "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2020-08-10 13:26:00,557 - INFO - basehttp: "GET /dauruxu/docs/swagger HTTP/1.1" 301 0
+2020-08-10 13:26:00,630 - INFO - basehttp: "GET /dauruxu/docs/swagger/ HTTP/1.1" 200 2445
+2020-08-10 13:26:00,933 - INFO - basehttp: "GET /dauruxu/docs/swagger/?format=openapi HTTP/1.1" 200 38689
+2020-08-10 13:28:09,844 - INFO - autoreload: C:\Users\famil\Documents\dauruxu\aplicacion\dauruxu\apps_administration\models\Property.py changed, reloading.
+2020-08-10 13:28:11,761 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:28:18,931 - INFO - basehttp: "GET /dauruxu/docs/swagger/?format=openapi HTTP/1.1" 200 38689
+2020-08-10 13:30:11,322 - INFO - basehttp: "GET /dauruxu/docs/swagger/ HTTP/1.1" 200 2445
+2020-08-10 13:30:11,652 - INFO - basehttp: "GET /dauruxu/docs/swagger/?format=openapi HTTP/1.1" 200 38689
+2020-08-10 13:30:12,300 - INFO - autoreload: C:\Users\famil\Documents\dauruxu\aplicacion\dauruxu\dauruxu\urls.py changed, reloading.
+2020-08-10 13:30:14,119 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:31:25,473 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:32:20,134 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:33:24,051 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:33:30,689 - INFO - basehttp: "GET /dauruxu/docs/swagger/ HTTP/1.1" 200 2445
+2020-08-10 13:33:31,133 - INFO - basehttp: "GET /dauruxu/docs/swagger/?format=openapi HTTP/1.1" 200 38689
+2020-08-10 13:33:37,345 - WARNING - log: Not Found: /dauruxu/aith
+2020-08-10 13:33:37,346 - WARNING - basehttp: "GET /dauruxu/aith HTTP/1.1" 404 3104
+2020-08-10 13:33:37,372 - WARNING - log: Not Found: /favicon.ico
+2020-08-10 13:33:41,900 - INFO - basehttp: "GET /dauruxu/auth HTTP/1.1" 301 0
+2020-08-10 13:33:41,905 - INFO - basehttp: "GET /dauruxu/auth/ HTTP/1.1" 200 1711
+2020-08-10 13:33:48,787 - INFO - basehttp: "GET /dauruxu/auth/login HTTP/1.1" 301 0
+2020-08-10 13:33:48,807 - INFO - basehttp: "GET /dauruxu/auth/login/ HTTP/1.1" 200 3722
+2020-08-10 13:33:48,881 - WARNING - log: Not Found: /favicon.ico
+2020-08-10 13:34:01,949 - INFO - autoreload: C:\Users\famil\Documents\dauruxu\aplicacion\dauruxu\dauruxu\urls.py changed, reloading.
+2020-08-10 13:34:03,727 - INFO - autoreload: Watching for file changes with StatReloader
+2020-08-10 13:34:14,373 - INFO - basehttp: "GET /dauruxu/login/ HTTP/1.1" 200 3717
+2020-08-10 13:34:22,828 - INFO - basehttp: "GET /dauruxu/register/ HTTP/1.1" 200 4549
+2020-08-10 13:34:39,923 - WARNING - log: Not Found: /dauruxu/data_registry
+2020-08-10 13:34:39,924 - WARNING - basehttp: "GET /dauruxu/data_registry HTTP/1.1" 404 3544
+2020-08-10 13:35:04,865 - INFO - basehttp: "GET /dauruxu/ HTTP/1.1" 200 1711
+2020-08-10 13:37:25,727 - WARNING - log: Not Found: /login/
+2020-08-10 13:37:25,729 - WARNING - basehttp: "GET /login/ HTTP/1.1" 404 3081
+2020-08-10 13:37:25,747 - WARNING - log: Not Found: /favicon.ico
+2020-08-10 13:37:34,564 - INFO - basehttp: "GET /dauruxu/register/ HTTP/1.1" 200 4549
+2020-08-10 13:37:34,622 - WARNING - log: Not Found: /favicon.ico
+2020-08-10 13:37:44,033 - WARNING - log: Not Found: /register/
+2020-08-10 13:37:44,034 - WARNING - basehttp: "GET /register/ HTTP/1.1" 404 3090
+2020-08-10 13:37:44,057 - WARNING - log: Not Found: /favicon.ico
+2020-08-10 13:37:54,847 - INFO - basehttp: "GET /dauruxu/register/ HTTP/1.1" 200 4549
+2020-08-10 13:38:44,060 - INFO - basehttp: "GET /dauruxu/docs/swagger/ HTTP/1.1" 200 2445
+2020-08-10 13:38:44,351 - INFO - basehttp: "GET /dauruxu/docs/swagger/?format=openapi HTTP/1.1" 200 38689
+2020-08-10 13:55:46,430 - INFO - basehttp: "GET /dauruxu/login/ HTTP/1.1" 200 3717
+2020-08-10 13:55:46,483 - WARNING - log: Not Found: /favicon.ico

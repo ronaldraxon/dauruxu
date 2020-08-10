@@ -11,9 +11,16 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
+import datetime
+from django.utils import timezone
+from datetime import date
+
+from psycopg2._psycopg import DATETIME, Date
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+today = date.today()
+
 
 
 # Quick-start development settings - unsuitable for production
@@ -38,6 +45,15 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'user_management',
+    'apps_administration',
+    'data_calendar',
+    'data_registry',
+    'data_preprocess',
+    'prediction_dispatcher',
+    'model_trainer',
+    'rest_framework',
+    'drf_yasg',
+    'background_task',
 ]
 
 MIDDLEWARE = [
@@ -124,8 +140,78 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+        'rest_framework.authentication.SessionAuthentication'
+    ],
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAuthenticated'
+    ],
+}
+
+LOGGING = {
+    'version': 1.0,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {
+            'format': '{asctime} - {levelname} - {module}: {message}',
+            'style': '{',
+        },
+        'simple': {
+            'format': '{asctime} - {levelname} : {message}',
+            'style': '{',
+        },
+    },
+    'handlers': {
+        'console': {
+            'level': 'INFO',
+            'class': 'logging.StreamHandler',
+            'formatter': 'verbose'
+        },
+        'file_handler': {
+            'level': 'INFO',
+            'class': 'logging.handlers.TimedRotatingFileHandler',
+            'formatter': 'verbose',
+            'encoding': 'utf8',
+            'filename': BASE_DIR + '\\tmp\\daruxu'+str(today)+'.log',
+            'when': 'midnight',
+            'interval': 1
+        }
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['console', 'file_handler'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'django.request': {
+            'handlers': ['console', 'file_handler'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'c4uforecastbrain': {
+            'handlers': ['console', 'file_handler'],
+            'level': 'INFO',
+            'propagate': False,
+        }
+    }
+}
+
 MEDIA_URL = '/images/'
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
+
+# Background task
+
+MAX_ATTEMPTS = 25
+MAX_RUN_TIME = 3600
+BACKGROUND_TASK_RUN_ASYNC = True
+#BACKGROUND_TASK_ASYNC_THREADS = 1
+BACKGROUND_TASK_PRIORITY_ORDERING = "DESC"
+
+# Calendar
+MINIMUM_YEAR = 1990
+MAXIMUM_YEAR = 2050
