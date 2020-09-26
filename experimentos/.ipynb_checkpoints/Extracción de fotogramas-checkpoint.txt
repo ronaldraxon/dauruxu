@@ -1,0 +1,7 @@
+python ImageProcessingUtilities.py -v G:\basesDatosVideo\panoptic-toolbox-master\scripts\170915_office1\hdVideos\hd_00_02.mp4 -d C:\Users\famil\Documents\imagesDauruxu\ofi1\hd2
+python ImageProcessingUtilities.py -v G:\basesDatosVideo\panoptic-toolbox-master\scripts\170915_office1\hdVideos\hd_00_06.mp4 -d C:\Users\famil\Documents\imagesDauruxu\ofi1\hd6
+python ImageProcessingUtilities.py -v G:\basesDatosVideo\panoptic-toolbox-master\scripts\170407_office2\hdVideos\hd_00_02.mp4 -d C:\Users\famil\Documents\imagesDauruxu\ofi2\hd2
+python ImageProcessingUtilities.py -v G:\basesDatosVideo\panoptic-toolbox-master\scripts\170407_office2\hdVideos\hd_00_06.mp4 -d C:\Users\famil\Documents\imagesDauruxu\ofi2\hd6
+
+python ImageProcessingUtilities.py -v G:\basesDatosVideo\panoptic-toolbox-master\scripts\171204_pose1\hdVideos\hd_00_06.mp4 -d C:\Users\famil\Documents\DatosDauruxu\pose1\hd6
+python ImageProcessingUtilities.py -v G:\basesDatosVideo\panoptic-toolbox-master\scripts\171204_pose1\hdVideos\hd_00_07.mp4 -d C:\Users\famil\Documents\DatosDauruxu\pose1\hd7

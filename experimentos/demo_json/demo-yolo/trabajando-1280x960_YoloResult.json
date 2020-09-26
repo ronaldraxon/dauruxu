@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/mydrive/images/working-3-1570154-1280x960.jpg", 
+ "objects": [ 
+  {"class_id":63, "name":"laptop", "relative_coordinates":{"center_x":0.286327, "center_y":0.695712, "width":0.423636, "height":0.489396}, "confidence":0.990541}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.617350, "center_y":0.605183, "width":0.774312, "height":0.820614}, "confidence":0.980852}
+ ] 
+}
+]
